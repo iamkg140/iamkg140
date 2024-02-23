@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kanchan Gautam</h1>
-<h3 align="center">A passionate Python Django Trainee from Nepal</h3>
+<h3 align="center">A MS in Science in Business Analytics in University of Central Oklahoma</h3>
 <img align="right" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
 - 🌱 I’m currently learning **React Native**
